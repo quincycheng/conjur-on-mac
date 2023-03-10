@@ -1,6 +1,6 @@
 # Guide to deploy Conjur OSS on MacOS with Apple Silicon 
 
-To run Conjur OSS on Docker on MacOS with Apple Silicon, we can simply add platform: linux/amd64 option
+To run Conjur OSS on Docker on MacOS with Apple Silicon, we can simply add `platform: linux/amd64` option
 
 ```
   conjur:
