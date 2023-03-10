@@ -18,4 +18,4 @@ To run Conjur OSS on Docker on MacOS with Apple Silicon, we can simply add platf
     ports:
       - 8080:80
 ```
-see docker-compose.yml for complete sample
+see [docker-compose.yml](https://github.com/quincycheng/conjur-on-mac/blob/main/docker-compose.yml) for complete sample
